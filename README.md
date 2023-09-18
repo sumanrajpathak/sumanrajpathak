@@ -74,7 +74,7 @@
   👋  Hi, I’m @devSumanrazz<br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Just started to contribute on open source projects<br/><br/>
- 📧 &emsp; Reach me anytime: viper.suman@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: pathaksumanraj@gmail.com<br/><br/>
  <!-- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues) -->
 
 </p>
