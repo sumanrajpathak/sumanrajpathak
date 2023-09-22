@@ -1,16 +1,16 @@
-<!--
+
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Suman's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
-<!--
+
+
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/devsumanrazzz"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Software%20Developer;6+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
- -->
+
 
 <a href="https://komarev.com/ghpvc/?username=devsumanrazz">
   <img align="right" src="https://komarev.com/ghpvc/?username=devsumanrazz&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -21,21 +21,21 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey World!, I am
+        <samp>&gt; Hello World!, I am
                 <b><a target="_blank" href="https://sumanrajpathak.com.np">Suman Raj Pathak</a></b>
         </samp>
 </h3>
 
 
-<!-- <p align="center"> 
+<p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Suman+Raj+Pathak">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Software developer from <b>Nepal</b> 」
     <br>
     <br>
   </samp>
-</p> -->
+</p>
 
 <p align="center">
  <a href="https://sumanrajpathak.com.np" target="blank">
@@ -44,12 +44,9 @@
  <a href="https://linkedin.com/in/sumanrazz" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
+ <a href="https://dev.to/devsumanrazz" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <!-- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a> -->
+ </a>
  <a href="https://instagram.com/sumanrz" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
@@ -65,23 +62,16 @@
 <p>
 <!-- ✌️ &emsp; Full Stack Mobile App Developer <br/><br/> -->
 <!-- 
-- 👋 Hi, I’m @devSumanrazz<br/>
+- 👋  Hi, I’m @devSumanrazz<br/>
 - 👀 I’m interested in ...<br/>
 - 🌱 I’m currently learning ...<br/>
 - 💞️ I’m looking to collaborate on ...<br/>  
 - 📫 How to reach me ...<br/> -->
  <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
-  👋  Hi, I’m @devSumanrazz<br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Just started to contribute on open source projects<br/><br/>
  📧 &emsp; Reach me anytime: pathaksumanraj@gmail.com<br/><br/>
- <!-- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues) -->
-
 </p>
-
-<br/>
-<br/>
-<br/>
 
 ## Use To Code
 
