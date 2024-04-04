@@ -7,13 +7,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/devsumanrazzz"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;6+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/sumanrajpathak"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;6+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
 
-<a href="https://komarev.com/ghpvc/?username=devsumanrazz">
-  <img align="right" src="https://komarev.com/ghpvc/?username=devsumanrazz&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=sumanrajpathak">
+  <img align="right" src="https://komarev.com/ghpvc/?username=sumanrajpathak&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -62,7 +62,7 @@
 <p>
 <!-- ✌️ &emsp; Full Stack Mobile App Developer <br/><br/> -->
 <!-- 
-- 👋  Hi, I’m @devSumanrazz<br/>
+- 👋  Hi, I’m @sumanrajpathak<br/>
 - 👀 I’m interested in ...<br/>
 - 🌱 I’m currently learning ...<br/>
 - 💞️ I’m looking to collaborate on ...<br/>  
@@ -96,13 +96,13 @@
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=devsumanrazz&repo=Image-Picker-Cropper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devsumanrazz/Image-Picker-Cropper)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=devsumanrazz&repo=bloc_template&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devsumanrazz/bloc_template)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=devsumanrazz&repo=IP-Address&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devsumanrazz/IP-Address)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=devsumanrazz&repo=PokemonX&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devsumanrazz/PokemonX)
+[![Public Ip Address](https://github-readme-stats.vercel.app/api/pin/?username=sumanrajpathak&repo=public_ip_address&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sumanrajpathak/public_ip_address)
+[![Flutter Phone Dialer](https://github-readme-stats.vercel.app/api/pin/?username=sumanrajpathak&repo=flutter-phone-dialer&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sumanrajpathak/flutter-phone-dialer)
+[![Flutter Cell Info](https://github-readme-stats.vercel.app/api/pin/?username=sumanrajpathak&repo=flutter_cell_info&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sumanrajpathak/flutter_cell_info)
+[![Esewa SDK](https://github-readme-stats.vercel.app/api/pin/?username=sumanrajpathak&repo=esewa_sdk&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sumanrajpathak/esewa_sdk)
 
 <p align="left">
-  <a href="https://github.com/devsumanrazz?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/devsumasumanrajpathaknrazz?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -110,22 +110,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/devsumanrazz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devsumanrazz&theme=radical&border=7F3FBF&background=0D1117" alt="Suman Raj's GitHub streak"/>
+  <a href="https://github.com/sumanrajpathak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanrajpathak&theme=radical&border=7F3FBF&background=0D1117" alt="Suman Raj's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/devsumanrazz">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devsumanrazz&theme=radical" alt="Suman Raj's GitHub Contribution"/>
+  <a href="https://github.com/sumanrajpathak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanrajpathak&theme=radical" alt="Suman Raj's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/devsumanrazz"><img alt="Suman Raj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devsumanrazz&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/devsumanrazz"><img alt="Suman Raj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devsumanrazz&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/sumanrajpathak"><img alt="Suman Raj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sumanrajpathak&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/sumanrajpathak"><img alt="Suman Raj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sumanrajpathak&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Suman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=devsumanrazz&custom_title=Suman%20Raj's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Suman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanrajpathak&custom_title=Suman%20Raj's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
