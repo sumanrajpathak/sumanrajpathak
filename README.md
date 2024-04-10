@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/sumanrajpathak"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;6+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/sumanrajpathak"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;7+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
